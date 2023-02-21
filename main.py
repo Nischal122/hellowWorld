@@ -1,6 +1,6 @@
 a = float(input("write first number "))
 b = float(input("write second number "))
-c = str(input("what do u want to do;add(+),subtract(-),multiply(*),divide(/) "))
+c= str(input("what do u want to do;add(+),subtract(-),multiply(*),divide(/) "))
 
 if c == "+":
     add = (a+b)
